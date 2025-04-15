@@ -1,2 +1,2 @@
 # wanderlust-project
-major project wanderlust
+Full Stack wanderlust
